@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-frontend
-        image: kamalee07/my-frontend:12
+        image: kamalee07/my-frontend:13
         ports:
         - containerPort: 80
